@@ -1,2 +1,2 @@
 # AI-ML
-Hands on programe
+Hands on programme on AI/ML.
